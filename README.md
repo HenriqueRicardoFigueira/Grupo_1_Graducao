@@ -1,6 +1,10 @@
 # AFTER SALES 
 
-
+A solution to manage the after sales of companies, being a channel to concentrate complaints about products and forward them to those responsible.
+Functionalities:
+- Receive the complaint via form, with description and photos.
+- Sends an email to the person in charge of the product with the information.
+- Creates indicators based on complaints.
 
 
 ## Table of contents
